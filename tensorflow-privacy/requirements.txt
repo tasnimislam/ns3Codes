@@ -1,0 +1,7 @@
+tensorflow== 2.8.0
+numpy==1.21.4
+pandas==1.3.4
+scipy==1.7.2
+json5==0.9.8
+tqdm==4.62.3
+tensorflow-privacy==0.5.2
